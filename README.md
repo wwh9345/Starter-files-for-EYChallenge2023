@@ -1,4 +1,4 @@
-# EYChallenge
+# EYChallenge starter files
 Crop Identification
 
 ### Archiving the files here for Ernst & Young's 2023 Open Science Data Challenge competition on Crop Identification.
